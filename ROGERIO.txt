@@ -1,0 +1,538 @@
+
+
+#EXTM3U
+
+#EXTINF:-1,PT: AXN MOVIES SD
+http://553102512259339490.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/339490.ts
+#EXTINF:-1,PT: AXN FHD
+http://553102512259339493.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/339493.ts
+#EXTINF:-1,PT: FOX SD
+http://553102512259339526.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/339526.ts
+#EXTINF:-1,PT: SPORT TV 3 SD
+http://553102512259339545.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/339545.ts
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://553102512259374678.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/374678.ts
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://553102512259416381.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/416381.ts
+#EXTINF:-1,PT: SPORTING TV FHD
+http://553102512259416382.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/416382.ts
+#EXTINF:-1,PT: FOX MOVIES SD
+http://553102512259449171.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/449171.ts
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://553102512259623298.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/623298.ts
+#EXTINF:-1,PT: SYFY SD
+http://553102512259623304.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/623304.ts
+#EXTINF:-1,PT: SPORT TV NBA SD
+http://553102512259690408.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/690408.ts
+#EXTINF:-1,PT: AXN WHITE HEVC
+http://553102512259722199.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/722199.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://553102512259744516.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/744516.ts
+#EXTINF:-1,PT: GLOBO FHD
+http://553102512259744528.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/744528.ts
+#EXTINF:-1,PT: INVESTIGATION DISCOVERY HD
+http://553102512259744534.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/744534.ts
+#EXTINF:-1,PT: A BOLA TV SD
+http://553102512259746331.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/746331.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://553102512259746355.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/746355.ts
+#EXTINF:-1,PT: TV CINE TOP HEVC
+http://553102512259748427.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/748427.ts
+#EXTINF:-1,PT: TV CINE EMOTION SD
+http://553102512259749010.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/749010.ts
+#EXTINF:-1,PT: BENFICA TV FHD
+http://553102512259755658.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755658.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://553102512259755739.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755739.ts
+#EXTINF:-1,PT: EUROSPORT 2 SD
+http://553102512259755751.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755751.ts
+#EXTINF:-1,PT: TV CINE EDITION SD
+http://553102512259755898.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755898.ts
+#EXTINF:-1,PT: TVCINE EDITION SD
+http://553102512259755911.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755911.ts
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://553102512259755914.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/755914.ts
+#EXTINF:-1,PT: AXN MOVIES HEVC
+http://553102512259770428.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/770428.ts
+#EXTINF:-1,PT: FOX MOVIES HEVC
+http://553102512259770448.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/770448.ts
+#EXTINF:-1,PT: SPORT TV + HEVC
+http://553102512259770469.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/770469.ts
+#EXTINF:-1,PT: TV CINE EDITION HEVC
+http://553102512259770480.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/770480.ts
+#EXTINF:-1,PT: TV CINE EMOTION HEVC
+http://553102512259770481.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/770481.ts
+#EXTINF:-1,PT: DAZN ELEVEN 1 HEVC
+http://553102512259775152.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/775152.ts
+#EXTINF:-1,PT: DAZN ELEVEN 2 HEVC
+http://553102512259775153.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/775153.ts
+#EXTINF:-1,PT: DAZN ELEVEN 4 FHD
+http://553102512259775157.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/775157.ts
+#EXTINF:-1,PT: DAZN ELEVEN 6 FHD
+http://553102512259775160.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/775160.ts
+#EXTINF:-1,PT: EURONEWS SD
+http://553102512259775164.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/775164.ts
+#EXTINF:-1,PT: SPORT TV + SD
+http://553102512259777315.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/777315.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://553102512259777317.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/777317.ts
+#EXTINF:-1,PT: DAZN ELEVEN 3 HEVC
+http://553102512259778203.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/778203.ts
+#EXTINF:-1,PT: FOX COMEDY SD
+http://553102512259780278.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/780278.ts
+#EXTINF:-1,PT: AMC SD
+http://553102512259782961.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/782961.ts
+#EXTINF:-1,PT: DAZN ELEVEN 3 SD
+http://553102512259782968.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/782968.ts
+#EXTINF:-1,PT: FOX LIFE FHD
+http://553102512259784702.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/784702.ts
+#EXTINF:-1,PT: NOS STUDIO FHD
+http://553102512259793645.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/793645.ts
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://553102512259794928.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/794928.ts
+#EXTINF:-1,PT: TV CINE TOP SD
+http://553102512259795740.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/795740.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://553102512259798232.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/798232.ts
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://553102512259798233.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/798233.ts
+#EXTINF:-1,PT: SPORT TV 2 SD
+http://553102512259798248.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/798248.ts
+#EXTINF:-1,PT: SPORT TV 4 SD
+http://553102512259798249.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/798249.ts
+#EXTINF:-1,PT: A BOLA HD
+http://553102512259799113.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/799113.ts
+#EXTINF:-1,PT: BENFICA FHD
+http://553102512259799120.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/799120.ts
+#EXTINF:-1,PT: CINEMUNDOᴴᴰ FHD
+http://553102512259799130.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/799130.ts
+#EXTINF:-1,PT: FOX CRIME HEVC
+http://553102512259799156.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/799156.ts
+#EXTINF:-1,PT: TV CINE ACTION FHD
+http://553102512259800703.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/800703.ts
+#EXTINF:-1,PT: BTV HD
+http://553102512259802448.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802448.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD HEVEC FHD
+http://553102512259802460.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802460.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3ᶠᴴᴰ FHD
+http://553102512259802464.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802464.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://553102512259802465.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802465.ts
+#EXTINF:-1,PT: EUROSPORT 2ᶠᴴᴰ SD
+http://553102512259802467.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802467.ts
+#EXTINF:-1,PT: FOX LIFEᶠᴴᴰ FHD
+http://553102512259802470.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802470.ts
+#EXTINF:-1,PT: GLOBO NOW HD
+http://553102512259802473.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802473.ts
+#EXTINF:-1,PT: SPORTING FHD
+http://553102512259802498.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802498.ts
+#EXTINF:-1,PT: SPORTV 1 FHD
+http://553102512259802499.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/802499.ts
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://553102512259808379.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/808379.ts
+#EXTINF:-1,PT: AXN BLACK SD
+http://553102512259810497.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/810497.ts
+#EXTINF:-1,PT: SPORT TV + [LIVE DURING EVENTS ONLY] SD
+http://553102512259812663.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/812663.ts
+#EXTINF:-1,PT: SPORT TV 3 [LIVE DURING EVENTS ONLY] SD
+http://553102512259812665.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/812665.ts
+#EXTINF:-1,PT: AXN HEVC
+http://553102512259814411.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/814411.ts
+#EXTINF:-1,PT: CINE MUNDO SD
+http://553102512259817726.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/817726.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6ᶠᴴᴰ FHD
+http://553102512259817728.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/817728.ts
+#EXTINF:-1,PT: AMC CRIME FHD
+http://553102512259821797.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/821797.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://553102512259821804.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/821804.ts
+#EXTINF:-1,PT: AMC BREAK HD
+http://553102512259824896.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/824896.ts
+#EXTINF:-1,PT: FOX CRIME SD
+http://553102512259827733.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/827733.ts
+#EXTINF:-1,PT: FOX LIFE HEVC
+http://553102512259829634.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/829634.ts
+#EXTINF:-1,PT: SPORTV HD
+http://553102512259829639.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/829639.ts
+#EXTINF:-1,PT: REAL MADRID TV FHD
+http://553102512259830213.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/830213.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://553102512259832871.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/832871.ts
+#EXTINF:-1,PT: TV CINE ACTION HEVC
+http://553102512259833490.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/833490.ts
+#EXTINF:-1,PT: SPORT TV 1 HEVC
+http://553102512259834412.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/834412.ts
+#EXTINF:-1,PT: DAZN ELEVEN 5 FHD
+http://553102512259836459.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/836459.ts
+#EXTINF:-1,PT: FOX COMEDY HEVC
+http://553102512259836464.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/836464.ts
+#EXTINF:-1,PT: FOX HEVC
+http://553102512259836466.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/836466.ts
+#EXTINF:-1,PT: GLOBO NOWS HEVC
+http://553102512259836467.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/836467.ts
+#EXTINF:-1,PT: TVCINE TOP SD
+http://553102512259838702.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/838702.ts
+#EXTINF:-1,PT: NOS STUDIOS HEVC
+http://553102512259840081.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/840081.ts
+#EXTINF:-1,PT: HOLLYWOOD HEVC
+http://553102512259840647.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/840647.ts
+#EXTINF:-1,PT: DAZN ELEVEN 2 FHD
+http://553102512259840954.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/840954.ts
+#EXTINF:-1,PT: AXN WHITE SD
+http://553102512259843192.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843192.ts
+#EXTINF:-1,PT: ELEVEN SPORT 1 FHD
+http://553102512259843196.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843196.ts
+#EXTINF:-1,PT: ELEVEN SPORT 2 HD
+http://553102512259843197.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843197.ts
+#EXTINF:-1,PT: ELEVEN SPORT 3 FHD
+http://553102512259843198.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843198.ts
+#EXTINF:-1,PT: ELEVEN SPORT 4 SD
+http://553102512259843199.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843199.ts
+#EXTINF:-1,PT: ELEVEN SPORT 5 FHD
+http://553102512259843200.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843200.ts
+#EXTINF:-1,PT: ELEVEN SPORT 6 FHD
+http://553102512259843201.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843201.ts
+#EXTINF:-1,PT: FOX LIFE SD
+http://553102512259843202.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843202.ts
+#EXTINF:-1,PT: SPORT TV 3 HEVC
+http://553102512259843205.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/843205.ts
+#EXTINF:-1,PT: A BOLA TV FHD
+http://553102512259844416.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844416.ts
+#EXTINF:-1,PT: AMC FHD
+http://553102512259844417.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844417.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://553102512259844421.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844421.ts
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://553102512259844433.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844433.ts
+#EXTINF:-1,PT: AXN MOVIES FHD
+http://553102512259844844.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844844.ts
+#EXTINF:-1,PT: GLOBO NOW FHD
+http://553102512259844849.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844849.ts
+#EXTINF:-1,PT: GLOBO TV HEVC
+http://553102512259844850.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844850.ts
+#EXTINF:-1,PT: SPORT TV FHD
+http://553102512259844853.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844853.ts
+#EXTINF:-1,PT: SPORT TV HEVC
+http://553102512259844854.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844854.ts
+#EXTINF:-1,PT: SYFY FHD
+http://553102512259844855.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844855.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Portugal",PT: Sport TV 1
+http://cord-cutter.net:8080/jesus1/jesus1/78513
+#EXTINF:-1,PT: Sport TV 1
+http://1tv41.icu:8080/7729858399/arkybums@gmail.com/78513
+#EXTINF:-1 tvg-id="" tvg-name="PT A BOLA TV" tvg-logo="" group-title="PORTUGUESE",PT A BOLA TV
+http://supersonictv.live:8080/873961/782752/7587
+#EXTINF:-1 tvg-id="" tvg-name="PT AMC" tvg-logo="" group-title="PORTUGUESE",PT AMC
+http://supersonictv.live:8080/873961/782752/7589
+#EXTINF:-1 tvg-id="" tvg-name="PT AMC HD" tvg-logo="" group-title="PORTUGUESE",PT AMC HD
+http://supersonictv.live:8080/873961/782752/7590
+#EXTINF:-1 tvg-id="" tvg-name="PT AXN" tvg-logo="" group-title="PORTUGUESE",PT AXN
+http://supersonictv.live:8080/873961/782752/7592
+#EXTINF:-1 tvg-id="" tvg-name="PT AXN BLACK" tvg-logo="" group-title="PORTUGUESE",PT AXN BLACK
+http://supersonictv.live:8080/873961/782752/7593
+#EXTINF:-1 tvg-id="" tvg-name="PT AXN HD" tvg-logo="" group-title="PORTUGUESE",PT AXN HD
+http://supersonictv.live:8080/873961/782752/7595
+#EXTINF:-1 tvg-id="" tvg-name="PT AXN WHITE" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE
+http://supersonictv.live:8080/873961/782752/7596
+#EXTINF:-1 tvg-id="" tvg-name="PT AXN WHITE HD" tvg-logo="" group-title="PORTUGUESE",PT AXN WHITE HD
+http://supersonictv.live:8080/873961/782752/7597
+#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV 1" tvg-logo="" group-title="PORTUGUESE",PT BENFICA TV 1
+http://supersonictv.live:8080/873961/782752/7599
+#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV 1 HD" tvg-logo="" group-title="PORTUGUESE",PT BENFICA TV 1 HD
+http://supersonictv.live:8080/873961/782752/7600
+#EXTINF:-1 tvg-id="" tvg-name="PT CANAL HOLLYWOOD HD" tvg-logo="" group-title="PORTUGUESE",PT CANAL HOLLYWOOD HD
+http://supersonictv.live:8080/873961/782752/7607
+#EXTINF:-1 tvg-id="" tvg-name="PT CINEMUNDO" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO
+http://supersonictv.live:8080/873961/782752/7615
+#EXTINF:-1 tvg-id="" tvg-name="PT CINEMUNDO HD" tvg-logo="" group-title="PORTUGUESE",PT CINEMUNDO HD
+http://supersonictv.live:8080/873961/782752/7616
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1
+http://supersonictv.live:8080/873961/782752/7626
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 1 HD
+http://supersonictv.live:8080/873961/782752/7627
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2
+http://supersonictv.live:8080/873961/782752/7628
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 2 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 2 HD
+http://supersonictv.live:8080/873961/782752/7629
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3
+http://supersonictv.live:8080/873961/782752/7630
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 3 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 3 HD
+http://supersonictv.live:8080/873961/782752/7631
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4
+http://supersonictv.live:8080/873961/782752/7632
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 4 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 4 HD
+http://supersonictv.live:8080/873961/782752/7633
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5
+http://supersonictv.live:8080/873961/782752/7634
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 5 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 5 HD
+http://supersonictv.live:8080/873961/782752/7635
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6
+http://supersonictv.live:8080/873961/782752/7636
+#EXTINF:-1 tvg-id="" tvg-name="PT ELEVEN SPORTS 6 HD" tvg-logo="" group-title="PORTUGUESE",PT ELEVEN SPORTS 6 HD
+http://supersonictv.live:8080/873961/782752/7637
+#EXTINF:-1 tvg-id="" tvg-name="PT ESPORTS 1 HD" tvg-logo="" group-title="PORTUGUESE",PT ESPORTS 1 HD
+http://supersonictv.live:8080/873961/782752/7638
+#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 1" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1
+http://supersonictv.live:8080/873961/782752/7641
+#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 1 HD" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 1 HD
+http://supersonictv.live:8080/873961/782752/7642
+#EXTINF:-1 tvg-id="" tvg-name="PT EUROSPORT 2" tvg-logo="" group-title="PORTUGUESE",PT EUROSPORT 2
+http://supersonictv.live:8080/873961/782752/7643
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX" tvg-logo="" group-title="PORTUGUESE",PT FOX
+http://supersonictv.live:8080/873961/782752/7646
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX COMEDY" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY
+http://supersonictv.live:8080/873961/782752/7647
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX COMEDY HD" tvg-logo="" group-title="PORTUGUESE",PT FOX COMEDY HD
+http://supersonictv.live:8080/873961/782752/7648
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX CRIME" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME
+http://supersonictv.live:8080/873961/782752/7649
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX CRIME HD" tvg-logo="" group-title="PORTUGUESE",PT FOX CRIME HD
+http://supersonictv.live:8080/873961/782752/7650
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX HD" tvg-logo="" group-title="PORTUGUESE",PT FOX HD
+http://supersonictv.live:8080/873961/782752/7651
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX LIFE HD" tvg-logo="" group-title="PORTUGUESE",PT FOX LIFE HD
+http://supersonictv.live:8080/873961/782752/7652
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX MOVIES" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES
+http://supersonictv.live:8080/873961/782752/7653
+#EXTINF:-1 tvg-id="" tvg-name="PT FOX MOVIES HD" tvg-logo="" group-title="PORTUGUESE",PT FOX MOVIES HD
+http://supersonictv.live:8080/873961/782752/7654
+#EXTINF:-1 tvg-id="" tvg-name="PT FUEL TV HD" tvg-logo="" group-title="PORTUGUESE",PT FUEL TV HD
+http://supersonictv.live:8080/873961/782752/7655
+#EXTINF:-1 tvg-id="" tvg-name="PT GLOBO NOW 'PT" tvg-logo="" group-title="PORTUGUESE",PT GLOBO NOW 'PT
+http://supersonictv.live:8080/873961/782752/7657
+#EXTINF:-1 tvg-id="" tvg-name="PT HOLLYWOOD" tvg-logo="" group-title="PORTUGUESE",PT HOLLYWOOD
+http://supersonictv.live:8080/873961/782752/7659
+#EXTINF:-1 tvg-id="" tvg-name="PT KOMBAT SPORT" tvg-logo="" group-title="PORTUGUESE",PT KOMBAT SPORT
+http://supersonictv.live:8080/873961/782752/7661
+#EXTINF:-1 tvg-id="" tvg-name="PT NOS STUDIOS HD" tvg-logo="" group-title="PORTUGUESE",PT NOS STUDIOS HD
+http://supersonictv.live:8080/873961/782752/7677
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV
+http://supersonictv.live:8080/873961/782752/7702
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV   HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV   HD
+http://supersonictv.live:8080/873961/782752/7703
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1
+http://supersonictv.live:8080/873961/782752/7704
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 1 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 1 HD
+http://supersonictv.live:8080/873961/782752/7705
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2
+http://supersonictv.live:8080/873961/782752/7706
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 2 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 2 HD
+http://supersonictv.live:8080/873961/782752/7707
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3
+http://supersonictv.live:8080/873961/782752/7708
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 3 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 3 HD
+http://supersonictv.live:8080/873961/782752/7709
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4
+http://supersonictv.live:8080/873961/782752/7710
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4 HD
+http://supersonictv.live:8080/873961/782752/7711
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 4K" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 4K
+http://supersonictv.live:8080/873961/782752/7712
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5
+http://supersonictv.live:8080/873961/782752/7713
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORT TV 5 HD" tvg-logo="" group-title="PORTUGUESE",PT SPORT TV 5 HD
+http://supersonictv.live:8080/873961/782752/7714
+#EXTINF:-1 tvg-id="" tvg-name="PT SPORTING TV HD" tvg-logo="" group-title="PORTUGUESE",PT SPORTING TV HD
+http://supersonictv.live:8080/873961/782752/7715
+#EXTINF:-1 tvg-id="" tvg-name="PT SYFY" tvg-logo="" group-title="PORTUGUESE",PT SYFY
+http://supersonictv.live:8080/873961/782752/7716
+#EXTINF:-1 tvg-id="" tvg-name="PT SYFY HD" tvg-logo="" group-title="PORTUGUESE",PT SYFY HD
+http://supersonictv.live:8080/873961/782752/7717
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 1" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 1
+http://supersonictv.live:8080/873961/782752/7729
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 1 HD" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 1 HD
+http://supersonictv.live:8080/873961/782752/7730
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 2" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 2
+http://supersonictv.live:8080/873961/782752/7731
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 2 HD" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 2 HD
+http://supersonictv.live:8080/873961/782752/7732
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 3" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 3
+http://supersonictv.live:8080/873961/782752/7733
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 3 HD" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 3 HD
+http://supersonictv.live:8080/873961/782752/7734
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 4" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 4
+http://supersonictv.live:8080/873961/782752/7735
+#EXTINF:-1 tvg-id="" tvg-name="PT TVCINE 4 HD" tvg-logo="" group-title="PORTUGUESE",PT TVCINE 4 HD
+http://supersonictv.live:8080/873961/782752/7736
+#EXTINF:-1,Eleven Sports 1 SD
+http://tvsbr.red:80/999180842/1077009/136362.ts
+#EXTINF:-1,Eleven Sports 1 HD
+http://tvsbr.red:80/999180842/1077009/136361.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://tvsbr.red:80/999180842/1077009/653544.ts
+#EXTINF:-1,Eleven Sports 2 SD
+http://tvsbr.red:80/999180842/1077009/136356.ts
+#EXTINF:-1,Eleven Sports 2 HD
+http://tvsbr.red:80/999180842/1077009/136355.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://tvsbr.red:80/999180842/1077009/653545.ts
+#EXTINF:-1,Eleven Sports 3 SD
+http://tvsbr.red:80/999180842/1077009/136351.ts
+#EXTINF:-1,Eleven Sports 3 HD
+http://tvsbr.red:80/999180842/1077009/136350.ts
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://tvsbr.red:80/999180842/1077009/653546.ts
+#EXTINF:-1,Eleven Sports 4 SD
+http://tvsbr.red:80/999180842/1077009/136347.ts
+#EXTINF:-1,Eleven Sports 4 HD
+http://tvsbr.red:80/999180842/1077009/136346.ts
+#EXTINF:-1,Eleven Sports 5 SD
+http://tvsbr.red:80/999180842/1077009/136343.ts
+#EXTINF:-1,Eleven Sports 5 HD
+http://tvsbr.red:80/999180842/1077009/136342.ts
+#EXTINF:-1,Eleven Sports 6 SD
+http://tvsbr.red:80/999180842/1077009/136340.ts
+#EXTINF:-1,Eleven Sports 6 HD
+http://tvsbr.red:80/999180842/1077009/136339.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT: TVI REALITY HEVC
+http://553102512259844857.ofsd5513.xyz:80/play/vi831238/54FUQtgy9G/844857.ts
